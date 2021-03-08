@@ -139,3 +139,8 @@ cython_debug/
 
 # Mac
 .DS_Store
+
+# 사진 폴더들 업로드 되지 않도록 해주기
+uploads/
+
+node_modules/
